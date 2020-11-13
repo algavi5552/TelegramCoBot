@@ -15,7 +15,7 @@ namespace TelegramCoBot
         {
             this._token = token;
         }
-        //string connString = @"Data Source=192.168.0.20;Initial Catalog=nomen;	Persist Security Info=True;User ID=sa;	Password=l14sql170407";
+        //string connString = @"Data Source=192.168.0.20;Initial Catalog=nomen;	Persist Security Info=True;User ID=sa;	Password=1111";
         DataTable dt = new();
         int i = 0;
         
